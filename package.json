@@ -31,5 +31,8 @@
     "test": "tests"
   },
   "author": "Beth Salvatore",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "composer": "^4.1.0"
+  }
 }
